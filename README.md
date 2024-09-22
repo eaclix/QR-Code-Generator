@@ -1,7 +1,7 @@
 # QR Code Generator
 
 This is a simple QR Code Generator web application built using HTML, CSS, and JavaScript. It allows users to input text or a URL, generate a QR code based on that input, and display it dynamically on the page.
-![QR code SS](https://github.com/user-attachments/assets/0eef5045-2ddd-4246-a18f-8127968fa9ff)
+
 ## Features
 - User-friendly interface for generating QR codes.
 - Real-time generation of QR codes based on user input.
@@ -14,7 +14,7 @@ You can view a live demo of the project [Live Demo](https://eaclix.github.io/QR-
 
 ## Screenshots
 
-![QR Code Generator Screenshot](#)
+![QR code SS](https://github.com/user-attachments/assets/0eef5045-2ddd-4246-a18f-8127968fa9ff))
 
 ## How It Works
 1. The user inputs a URL or text in the input field.
